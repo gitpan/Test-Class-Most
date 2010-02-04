@@ -1,5 +1,9 @@
 Revision history for Test-Class-Most
 
+0.03    February 4, 2010
+        - Remove bad shebang causing some tests to fail if /usr/bin/env picks
+          up a perl not in their path.
+
 0.02    February 3, 2010
         - Fix a broken diagnostic message in t/lib/My/Test/Class.pm
         - Correct the MANIFEST for a renamed file.
