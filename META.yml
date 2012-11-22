@@ -15,11 +15,11 @@ name: Test-Class-Most
 provides:
   Test::Class::Most:
     file: lib/Test/Class/Most.pm
-    version: 0.07
+    version: 0.08
 requires:
-  Test::Class: 0.33
+  Test::Class: 0.38
   Test::Most: 0.31
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/Ovid/Test-Class-Most/
-version: 0.07
+version: 0.08

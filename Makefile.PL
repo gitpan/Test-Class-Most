@@ -5,7 +5,7 @@ WriteMakefile
   'NAME' => 'Test::Class::Most',
   'VERSION_FROM' => 'lib/Test/Class/Most.pm',
   'PREREQ_PM' => {
-                   'Test::Class' => '0.33',
+                   'Test::Class' => '0.38',
                    'Test::Most' => '0.31'
                  },
   'INSTALLDIRS' => 'site',
